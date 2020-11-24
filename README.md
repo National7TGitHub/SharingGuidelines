@@ -17,7 +17,7 @@ Intro
 ### Outputs
 
 ___
-### How this "new software" works (everything that is done "under the wood") as a continuation of why using this pipeline and software compared to others
+### How this "new software" works (everything that is done in the black box) as a continuation of why using this pipeline and software compared to others
 
 ____
 ### Atlases used by software
